@@ -5,9 +5,9 @@ The notes stay on your device. Uses localstorage.
 
 Features:
 - Hotkeys to save and start a new note.
-- A focusing effect when editing a note (doesn't quite work with Firefox).
+- A focusing effect when editing a note.
 - Saves into localstorage.
-- Dark mode.
+- Dark mode (doesn't quite work with Firefox).
 
 TODO:
 - Add markdown parsing. I struggled adding snarkdown as the parser. Managed to do it but there were drawbacks.
