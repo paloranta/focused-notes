@@ -1,4 +1,6 @@
 # focused-notes
+![Preview](preview.png "Preview")
+
 A simple note-taking application with html contenteditable and JS: https://paloranta.github.io/focused-notes-demo/
 The notes stay on your device. Uses localstorage.
 
